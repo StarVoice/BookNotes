@@ -3,6 +3,10 @@ Start date: 2017-10-29 <br>
 [한국십진분류법](https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%8B%AD%EC%A7%84%EB%B6%84%EB%A5%98%EB%B2%95)
 <hr/>
 
+#### 수학/통계/수치해석 
+* 컴퓨터 시대의 통계적 추론: 알고리즘과 추론의 관계와 역할 / 브래들리 에프론, 트레버 해스티 / 에이콘출판(2019) / [[서점](http://www.yes24.com/Product/Goods/71829251)]
+* 계량경제학 강의 / 한치록 / 박영사(2017)/ [[서점](http://www.yes24.com/Product/Goods/36418498)]
+*
 
 #### 철학
 * 좋아하는 철학자 있으세요? / [[서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791157524990)] [[메모](https://github.com/knlee-voice/BookNotes/blob/master/9791157524990_171029.md)]
@@ -12,6 +16,7 @@ Start date: 2017-10-29 <br>
 * 소리의 과학 The Universal Sense / 세스 S. 호로비츠 / 에이도스  
 * 그레이스 호퍼 - 정보시대를 발명한 여인 / 커트 W. 베이어 / 지식함지 / [[서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791195258499)] [[메모](https://github.com/knlee-voice/BookNotes/blob/master/9791195258499_180225.md)]
 * 소리 혁명 / 김재평 외 / 버튼 북스 / [[서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791187320180)] [[메모](https://github.com/knlee-voice/BookNotes/blob/master/9791187320180_180418.md)]
+* 마음의 사회 The Society of Mind / 마빈 민스키 지음, 조광제 옮김 / 새로운현재 / [[서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?&barcode=9791129703361)] [[brunch](https://brunch.co.kr/@minnation/888)] [[post](https://m.post.naver.com/viewer/postView.nhn?volumeNo=17909791&memberNo=38694016)]
 
 #### SF
 * 2001 space fantasia(2001 야화) / [[서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788959192588)]
